@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#h10 {
+    color: #e23a08;
+    text-align:center;
+}
+
+.container {
+    display: flex;
+    align-items: center; /* Vertically center items */
+    justify-content: center; /* Horizontally center items */
+    height: 99vh; /* Set height to 100% of viewport height */
+    background-color: rgb(0, 0, 0);
+
+}
+
+
+#J12 {
+    margin: 60px;
+}
+
+#M87 {
+    color:#e23a08;
+    text-align: center;
+}
